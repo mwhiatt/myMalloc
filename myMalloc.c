@@ -7,7 +7,6 @@
 #include <unistd.h>
 
 #include "myMalloc.h"
-#include "printing.h"
 
 
 static pthread_mutex_t mutex;
